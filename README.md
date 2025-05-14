@@ -86,8 +86,7 @@ Include screenshots or UI demos here if applicable (e.g., for the web interface,
 ## 🧑‍💻 **Contributing**
 Feel free to contribute to this project. Fork the repository and submit a pull request for improvements or new features!
 
-## 📞 **Contact**
-For any inquiries, please contact [your-email@example.com].
+
 
 ---
 
